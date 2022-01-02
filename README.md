@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Corinazs
 - 👀 I’m interested in coding, automatisation, data
-- 🌱 I’m currently learning VBA and Java
+- 🌱 I’m currently learning VBA and R
 - 📫 How to reach me Corina.zilch-schuler@gmx.de
 
 <!---
